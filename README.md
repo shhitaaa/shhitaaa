@@ -5,6 +5,7 @@ CSE undergrad at JIIT Noida (5th semester) — building full-stack projects and 
 - 💼 Interned at **Central Electronics Limited (CEL)**, Sahibabad
 - 🛠️ Currently building: full-stack apps with React, Node/Express, and MongoDB
 - 📚 Practicing DSA on LeetCode & Codeforces
+- 🌱 Currently learning: project architecture, Computer Networks, Operating Systems
 - 🌱 New to Git/GitHub — learning to build in the open
 
 **Tech I work with**
@@ -14,6 +15,9 @@ CSE undergrad at JIIT Noida (5th semester) — building full-stack projects and 
 - 🩺 [cel-complaint-portal](https://github.com/shhitaaa/cel-complaint-portal) — full-stack complaint management system for CEL, with role-based dashboards and analytics
 - 🌤️ [weather-app](https://github.com/shhitaaa/weather-app) — React weather app (Wyro) with live conditions, forecasts, and geolocation
 - 📊 [dsa-visualizer](https://github.com/shhitaaa/dsa-visualizer) — visualizing sorting, pathfinding, and tree traversal algorithms step-by-step
+
+**Open to internship opportunities** — feel free to reach out!
+📫 l.saran2408@gmail.com
 
 <!--
 **shhitaaa/shhitaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
